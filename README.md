@@ -1,5 +1,4 @@
-# Machine-Learning-Project
-Quantisation of Neural Network
+#Quantisation of Neural Network
 
 Today’s world, neural network is doing amazing things. Starting from real time object detection, image recognition to NLP. It requires high power intensive devices like GPU, TPU to run because these tasks requires thousands and millions of addition and multiplication of floating point numbers. It also requires high storage system because we have to store millions of parameters and weights to train the model.
 
